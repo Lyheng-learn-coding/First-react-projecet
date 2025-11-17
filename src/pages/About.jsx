@@ -24,7 +24,7 @@ function About() {
           </div>
         </Fade>
       </section>
-      <Footer />
+      <Footer class1="mt-1" />
     </>
   );
 }

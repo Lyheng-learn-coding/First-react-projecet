@@ -49,7 +49,7 @@ function Contact() {
       <section className="ContactContainer h-screen relative m-auto max-w-[1600px]">
         <div className="flex justify-center items-center w-full h-full flex-col text-white">
           <Fade triggerOnce duration={2000} delay={200}>
-            <h1 className="font-medium text-[2rem] max-w-[500px] text-center mb-3">
+            <h1 className="font-medium text-[2rem] max-w-[500px] text-center mb-3 p-2.5">
               Find Your Perfect Tech Companion, Delivered Free!
             </h1>
             <p className="text-[1.2rem] text-center p-2.5 max-w-prose">

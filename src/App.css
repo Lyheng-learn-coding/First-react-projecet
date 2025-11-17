@@ -38,7 +38,7 @@ body {
 
 @media screen and (max-width: 450px) {
   .servicesContainer {
-    padding-inline: 50px;
+    padding-inline: 30px;
   }
 }
 
@@ -61,9 +61,5 @@ body {
 
   .card-content {
     left: -15px;
-  }
-
-  .title-section {
-    font-size: 1rem;
   }
 }

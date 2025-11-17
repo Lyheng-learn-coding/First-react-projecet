@@ -21,7 +21,9 @@ function Services() {
               <img src={Desinger} alt="" className="w-full h-[450px] " />
 
               <div className="card-content bg-white absolute bottom-0 left-[-30px] shadow-lg p-2.5  pl-7  w-[90%]">
-                <h2 className="font-bold text-[1.5rem]">Expert Consultation</h2>
+                <h2 className="font-bold text-[1.5rem] mb-1.5">
+                  Expert Consultation
+                </h2>
                 <p className="text-services">
                   Our knowledgeable staff will help you choose the perfect
                   device to match your needs and budget.
@@ -34,7 +36,9 @@ function Services() {
               <img src={teamWork} alt="" className="w-full h-[450px] " />
 
               <div className="card-content bg-white absolute bottom-0 left-[-30px] shadow-lg p-2.5  pl-7 w-[90%]">
-                <h2 className="font-bold text-[1.5rem]">Device Repair</h2>
+                <h2 className="font-bold text-[1.5rem] mb-1.5">
+                  Device Repair
+                </h2>
                 <p className="text-services">
                   We offer professional repair services to get your devices back
                   in top condition.
@@ -52,7 +56,7 @@ function Services() {
               />
 
               <div className="card-content bg-white absolute bottom-0 left-[-30px] shadow-lg p-2.5 pl-7 w-[90%]">
-                <h2 className="font-bold text-[1.5rem]">24/7 Support</h2>
+                <h2 className="font-bold text-[1.5rem] mb-1.5">24/7 Support</h2>
                 <p className="text-services">
                   Our dedicated support team is always available to assist you
                   with any inquiries or issues.
@@ -72,7 +76,7 @@ export function TitleSection() {
     <>
       <div className="flex w-full items-center md:mt-[50px] ">
         <div className="border border-gray-400 w-full h-0.5"></div>
-        <h1 className="title-section text-[1.5rem] text-center text-black font-medium rounded-[30px] md:p-2.5 p-2 border border-gray-400  w-[500px]">
+        <h1 className="title-section md:text-[1.5rem] text-[1rem] text-center text-black font-medium rounded-[30px] md:p-2.5 p-1.5 border border-gray-400  w-[500px]">
           Service section
         </h1>
         <div className="border border-gray-400 w-full h-0.5"></div>
